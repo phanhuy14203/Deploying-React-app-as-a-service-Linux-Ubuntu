@@ -7,7 +7,7 @@ npm install
 ```
 nano /lib/systemd/system/vision.service
 ```
-## write the content for the vision.service file
+## Write the content for the vision.service file
 ```
 [Service]
 Type=simple
